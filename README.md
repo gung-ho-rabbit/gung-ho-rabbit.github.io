@@ -1,6 +1,6 @@
-# gung-ho-rabbit.github.io
-# H1 headers
-### h3 headers
+# gung-ho-rabbit.github.io ..
+# H1 headers ..
+### h3 headers ..
 ___
 
 ## emphasis
@@ -14,4 +14,4 @@ _this is italic_
 1. hi 
 2. yo
 [link label time son](https://opensea.io/asset/create)
-[link label time son but with comments](https://opensea.io/asset/create)
+[link label time son but with comments](https://opensea.io/asset/create "opensea baby")
